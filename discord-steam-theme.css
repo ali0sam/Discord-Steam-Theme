@@ -17,7 +17,6 @@ background: linear-gradient(90deg, rgba(1,0,28,0.7231267507002801) 0%, rgba(88,9
 .theme-dark{
 	--background-primary: transparent;
 	--background-primary-alt: #36393ff0;
-	--background-secondary: #2f313650;
 	--background-secondary-chat: #2f3136a0;
 	--background-secondary-alt: #292b2f00;
 	--background-logo: #36393fa0;
